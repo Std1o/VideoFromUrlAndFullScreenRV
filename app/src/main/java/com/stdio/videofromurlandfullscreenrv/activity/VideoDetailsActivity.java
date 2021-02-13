@@ -17,7 +17,7 @@ import com.stdio.videofromurlandfullscreenrv.R;
 import com.stdio.videofromurlandfullscreenrv.adapter.VideoDetailsAdapter;
 import com.stdio.videofromurlandfullscreenrv.bean.MainVideoBean;
 import com.stdio.videofromurlandfullscreenrv.util.IntentUtil;
-import com.stdio.videofromurlandfullscreenrv.util.MediaPlayerTool;
+import com.stdio.videofromurlandfullscreenrv.media_player.MediaPlayerTool;
 import com.stdio.videofromurlandfullscreenrv.util.Util;
 import com.stdio.videofromurlandfullscreenrv.util.StatusBarUtil;
 import com.stdio.videofromurlandfullscreenrv.view.VideoTouchView;

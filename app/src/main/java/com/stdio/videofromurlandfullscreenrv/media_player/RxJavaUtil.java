@@ -1,4 +1,4 @@
-package com.stdio.videofromurlandfullscreenrv.util;
+package com.stdio.videofromurlandfullscreenrv.media_player;
 
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;

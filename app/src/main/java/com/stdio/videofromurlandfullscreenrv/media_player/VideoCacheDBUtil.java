@@ -1,4 +1,4 @@
-package com.stdio.videofromurlandfullscreenrv.util;
+package com.stdio.videofromurlandfullscreenrv.media_player;
 
 import com.litesuits.orm.LiteOrm;
 import com.litesuits.orm.db.DataBaseConfig;

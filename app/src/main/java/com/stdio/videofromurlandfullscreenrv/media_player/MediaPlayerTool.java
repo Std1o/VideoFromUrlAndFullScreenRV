@@ -1,9 +1,10 @@
-package com.stdio.videofromurlandfullscreenrv.util;
+package com.stdio.videofromurlandfullscreenrv.media_player;
 
 import android.graphics.SurfaceTexture;
 import android.text.TextUtils;
 import android.view.Surface;
 
+import com.stdio.videofromurlandfullscreenrv.util.Util;
 import com.stdio.videofromurlandfullscreenrv.view.PlayTextureView;
 
 import java.io.File;

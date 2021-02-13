@@ -16,9 +16,9 @@ import com.stdio.videofromurlandfullscreenrv.R;
 import com.stdio.videofromurlandfullscreenrv.adapter.MainAdapter;
 import com.stdio.videofromurlandfullscreenrv.bean.MainVideoBean;
 import com.stdio.videofromurlandfullscreenrv.util.DataUtil;
-import com.stdio.videofromurlandfullscreenrv.util.MediaPlayerTool;
+import com.stdio.videofromurlandfullscreenrv.media_player.MediaPlayerTool;
 import com.stdio.videofromurlandfullscreenrv.util.Util;
-import com.stdio.videofromurlandfullscreenrv.util.VideoLRUCacheUtil;
+import com.stdio.videofromurlandfullscreenrv.media_player.VideoLRUCacheUtil;
 
 import java.util.ArrayList;
 import java.util.List;

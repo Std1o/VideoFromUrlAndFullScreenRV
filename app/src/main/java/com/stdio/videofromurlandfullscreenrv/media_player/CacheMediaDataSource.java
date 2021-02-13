@@ -1,4 +1,4 @@
-package com.stdio.videofromurlandfullscreenrv.util;
+package com.stdio.videofromurlandfullscreenrv.media_player;
 
 
 import com.stdio.videofromurlandfullscreenrv.bean.VideoCacheBean;

@@ -2,7 +2,7 @@ package com.stdio.videofromurlandfullscreenrv;
 
 import android.app.Application;
 
-import com.stdio.videofromurlandfullscreenrv.util.VideoLRUCacheUtil;
+import com.stdio.videofromurlandfullscreenrv.media_player.VideoLRUCacheUtil;
 
 /**
  * Created by zhaoshuang on 2018/11/1.
